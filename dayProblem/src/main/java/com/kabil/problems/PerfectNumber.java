@@ -1,6 +1,6 @@
 package com.kabil.problems;
 
-public class Question6 {
+public class PerfectNumber {
 
   /**
    * Given a number n, check if the number is perfect or not. A number is

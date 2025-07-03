@@ -2,7 +2,7 @@ package com.kabil.problems;
 
 import java.util.ArrayList;
 
-public class Question12 {
+public class PascalTriangle {
 
   ArrayList<Integer> nthRowOfPascalTriangle(int n) {
 

@@ -1,6 +1,6 @@
 package com.kabil.problems;
 
-public class Question5 {
+public class SquareRoot {
 
   /**
    * Given a positive integer n, find the square root of n. If n is not a perfect

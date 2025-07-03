@@ -2,7 +2,7 @@ package com.kabil.problems;
 
 import java.util.ArrayList;
 
-public class Question14 {
+public class Searchpattern {
 
   static ArrayList<Integer> find(String up, String p, int index, ArrayList<Integer> list) {
     if (index > up.length() - p.length()) {

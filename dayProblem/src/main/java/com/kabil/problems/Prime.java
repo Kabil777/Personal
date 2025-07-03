@@ -1,6 +1,6 @@
 package com.kabil.problems;
 
-public class Question2 {
+public class Prime {
 
   /**
    * Given a number n, determine whether it is a prime number or not.

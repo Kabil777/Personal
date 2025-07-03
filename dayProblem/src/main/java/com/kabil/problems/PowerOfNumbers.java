@@ -1,6 +1,6 @@
 package com.kabil.problems;
 
-public class Question11 {
+public class PowerOfNumbers {
 
   public int reverseExponentiation(int n) {
     int base = n;

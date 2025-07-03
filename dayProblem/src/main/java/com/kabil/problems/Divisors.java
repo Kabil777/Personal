@@ -3,7 +3,7 @@ package com.kabil.problems;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Question1 {
+public class Divisors {
 
   /**
    * Given an integer ‘N’, your task is to write a program that returns all the

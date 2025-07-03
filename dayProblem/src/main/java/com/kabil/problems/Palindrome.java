@@ -1,6 +1,6 @@
 package com.kabil.problems;
 
-public class Question4 {
+public class Palindrome {
 
   /**
    * You are given an integer n. Your task is to determine whether it is a

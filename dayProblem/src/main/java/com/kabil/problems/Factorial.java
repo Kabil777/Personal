@@ -1,6 +1,6 @@
 package com.kabil.problems;
 
-public class Question13 {
+public class Factorial {
 
   static int fact(int n, int factNumber) {
     if (n == 0) {

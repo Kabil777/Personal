@@ -1,6 +1,6 @@
 package com.kabil.problems;
 
-public class Question10 {
+public class Reverse {
 
   public int reverseDigits(int n) {
     int m = 0;

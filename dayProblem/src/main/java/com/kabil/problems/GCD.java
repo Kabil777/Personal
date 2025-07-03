@@ -1,6 +1,6 @@
 package com.kabil.problems;
 
-public class Question9 {
+public class GCD {
 
   /**
    * Given two positive integers a and b, find GCD of a and b.

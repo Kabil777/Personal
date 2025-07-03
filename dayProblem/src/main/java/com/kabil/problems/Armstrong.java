@@ -1,6 +1,6 @@
 package com.kabil.problems;
 
-public class Question3 {
+public class Armstrong {
 
   /**
    * You are given a 3-digit number n, Find whether it is an Armstrong number or
